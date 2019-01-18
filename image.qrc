@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/logo.png</file>
+        <file>image/pp.png</file>
+        <file>image/narwel.png</file>
+    </qresource>
+</RCC>
